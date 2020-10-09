@@ -9,8 +9,9 @@ My job was to refactor code that was given to be more web accessible. Semantic t
 - CSS 
 
 ```html internal link
+ <!-- add link -->
  <a href="#search-engine-optimization">Search Engine Optimization</a>
- 
+ <!-- add id for link in desired tag -->
  <section id="search-engine-optimization">Search Engine Optimization</section>
 ```
 
