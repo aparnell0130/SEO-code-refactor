@@ -8,6 +8,12 @@ My job was to refactor code that was given to be more web accessible. Semantic t
 - HTML
 - CSS 
 
+```html internal link
+ <a href="#search-engine-optimization">Search Engine Optimization</a>
+ 
+ <section id="search-engine-optimization">Search Engine Optimization</section>
+```
+
 ## Description of website
 "Search engine optimization is key"
 
